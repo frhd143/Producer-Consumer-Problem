@@ -1,3 +1,7 @@
+/*
+	Written by Farhad Asadi, BTH student
+*/
+
 #include <stdio.h>
 #include <unistd.h>
 #include <sys/types.h>
